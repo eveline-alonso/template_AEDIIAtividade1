@@ -1,17 +1,8 @@
-# Nome do projeto
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+# AED II - Oficinas e atividade 1 - Desempenho de algoritmos e algoritmos de ordenação 
+Oficinas e atividade pontuada realizada em AED II, tendo em vista algoritmos de ordenação em sistemas de software e seu desempenho.
 
-## Alunos integrantes da equipe
+## Aluno 
 
 * Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 4
-* Nome completo do aluno 4
 
-## Professores responsáveis
-
-* Nome completo do professor 1
-* Nome completo do professor 2
 
