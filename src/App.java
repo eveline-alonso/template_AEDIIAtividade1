@@ -26,10 +26,12 @@ import java.util.Random;
  */
 
 public class App {
-    static int[] tamanhosTesteGrande =  { 125_000, 250_000, 500_000, 1_000_000, 2_000_000 };
-    static int[] tamanhosTesteMedio =   {  12_500,  25_000,  50_000,   100_000,   200_000 };
-    static int[] tamanhosTestePequeno = {       3,       6,      12,        24,        48 };
+    static final int[] tamanhosTesteGrande =  { 31_250_000, 62_500_000, 125_000_000, 250_000_000, 500_000_000 };
+    static final int[] tamanhosTesteMedio =   {     12_500,     25_000,      50_000,     100_000,     200_000 };
+    static final int[] tamanhosTestePequeno = {          3,          6,          12,          24,          48 };
     static Random aleatorio = new Random(42);
+    static long operacoes;
+    static double nanoToMilli = 1.0/1_000_000;
 
     /**
      * Código de teste 1. Este método...
