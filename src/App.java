@@ -53,7 +53,7 @@ public class App {
      */
     static int codigo2(int[] vetor) {
         int contador = 0;
-        for (int k = (vetor.length - 1); k >= 0; k /= 2) {
+        for (int k = (vetor.length - 1); k > 0; k /= 2) {
             for (int i = 0; i <= k; i++) {
                 contador++;
             }
